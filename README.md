@@ -1,2 +1,3 @@
 # Handwritten-Digit-Classification-using-K-means-clustering-and-Hierachical-Clustering
-This practical is about classification of handwritten digits by two different clustering method; Kmeans and Hierarchical Clustering. The data set use was gotten from UC Irvine ML Repository.
+This practical is about classification of handwritten digits by two different clustering method; Kmeans and Hierarchical Clustering. The data set use was gotten from UC Irvine ML Repository. 
+The aim is to understand how to build a K-means clustering algorithm and Hierarchical Clustering algorithm, to train it and to test its performance on some test data set. The performance was meant to be compared. Further analysis were conducted by varying some of the hyper parameters of the model, especially the initialization for k-means clustering, and new model was developed for better performance.
